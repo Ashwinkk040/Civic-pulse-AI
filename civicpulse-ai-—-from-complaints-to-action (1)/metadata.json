@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI — From Complaints to Action",
+  "description": "Report Problems. Discover Patterns. Prioritize Action. Real-time AI-powered civic complaint management and municipal operations platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
